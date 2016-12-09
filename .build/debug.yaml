@@ -1,0 +1,24 @@
+client:
+  name: swift-build
+tools: {}
+targets:
+  "test": ["<Locksmith.module>"]
+  "main": ["<Locksmith.module>"]
+default: "main"
+commands: 
+  "<Locksmith.module>":
+    tool: swift-compiler
+    executable: "/Library/Developer/Toolchains/swift-3.0-RELEASE.xctoolchain/usr/bin/swiftc"
+    module-name: "Locksmith"
+    module-output-path: "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.swiftmodule"
+    inputs: []
+    outputs: ["<Locksmith.module>","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass.swift.o"]
+    import-paths: ["/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug"]
+    temps-path: "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build"
+    objects: ["/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol.swift.o","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass.swift.o"]
+    other-args: ["-j8","-D","SWIFT_PACKAGE","-Onone","-g","-enable-testing","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-target","x86_64-apple-macosx10.10","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk","-module-cache-path","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/ModuleCache"]
+    sources: ["/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Dictionary_Initializers.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Locksmith.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithAccessibleOption.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithError.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetAuthenticationType.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetProtocol.swift","/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithSecurityClass.swift"]
+    is-library: true
+    enable-whole-module-optimization: false
+    num-threads: "8"
+

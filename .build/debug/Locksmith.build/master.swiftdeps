@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swift-3.0-RELEASE)"
+options: "062fddff6f34a5a7fd8de0be561f980b"
+build_time: [534619433, 374558000]
+inputs:
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Dictionary_Initializers.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Locksmith.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithAccessibleOption.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithError.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetAuthenticationType.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetProtocol.swift": [534618504, 0]
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithSecurityClass.swift": [534618504, 0]

@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/master.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Dictionary_Initializers.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Dictionary_Initializers.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/Locksmith.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/Locksmith.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithAccessibleOption.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithAccessibleOption.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithError.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithError.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetAuthenticationType.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetAuthenticationType.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithInternetProtocol.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithInternetProtocol.swiftdeps"
+  },
+  "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/Sources/LocksmithSecurityClass.swift": {
+    "dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass.d",
+    "object": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass.swift.o",
+    "swiftmodule": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass~partial.swiftmodule",
+    "swift-dependencies": "/Users/wess/Desktop/Development/WeddingWire/vendoor/Locksmith/.build/debug/Locksmith.build/LocksmithSecurityClass.swiftdeps"
+  }
+}
